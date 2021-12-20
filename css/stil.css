@@ -349,8 +349,7 @@ header nav ul li a {
   }
 }
 .main {
-  background-image: url("../images/get-back-to-code-km-1920x1080 (1).jpg");
-  background-size: cover;
+  background-color: black;
   height: 100vh;
   text-align: center;
   padding-top: 10%;
